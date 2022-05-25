@@ -1,23 +1,10 @@
 h1 {
   text-align: center;
+  color: grey;
 }
 
-h2.intro {
+.intro {
   color: red;
   text-align: center;
-}
-
-p.intro {
-  color: blueviolet;
-  text-align: center;
   font-size: 15px;
-}
-
-img.intro {
-  width: 300px;
-  height: 400px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
 }
